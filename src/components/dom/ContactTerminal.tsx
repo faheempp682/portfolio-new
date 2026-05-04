@@ -133,11 +133,11 @@ export default function ContactTerminal() {
           </p>
 
           <a
-            href="mailto:faheem@kimp.com"
+            href="mailto:dev@faheem.site"
             className="group inline-flex items-center gap-3 px-6 py-4 rounded-full border border-white/15 hover:border-accent hover:bg-accent hover:text-black transition-all duration-300"
           >
             <span className="font-mono text-xs uppercase tracking-[0.3em]">
-              faheem@kimp.com
+              dev@faheem.site
             </span>
             <span className="w-6 h-px bg-current transition-all group-hover:w-10" />
             <span className="text-lg">→</span>
