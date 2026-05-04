@@ -161,7 +161,7 @@ export default function ContactTerminal() {
       </div>
 
       <footer className="mt-32 pt-8 border-t border-white/5 flex flex-wrap items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-[0.3em] text-zinc-600">
-        <div>© 2026 — faheem.dev</div>
+        <div>© 2026 — faheem.site</div>
         <div className="flex items-center gap-2">
           <span className="w-1.5 h-1.5 rounded-full bg-accent animate-pulse" />
           Open for select work
