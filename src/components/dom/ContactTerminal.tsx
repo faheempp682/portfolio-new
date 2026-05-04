@@ -19,7 +19,7 @@ const lines = [
     text: "64 bytes from faheem: time=instant, status=available",
     accent: true,
   },
-  { prefix: "$", text: "open mailto:dev@faheem.site", accent: false },
+  { prefix: "$", text: "open mailto:faheempp@kimp.com", accent: false },
 ];
 
 export default function ContactTerminal() {
