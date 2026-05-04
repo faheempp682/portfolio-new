@@ -13,13 +13,13 @@ const lines = [
     text: "faheem — frontend developer · ui/ux designer",
     accent: false,
   },
-  { prefix: "$", text: "ping faheempp@kimp.com", accent: false },
+  { prefix: "$", text: "ping dev@faheem.site", accent: false },
   {
     prefix: ">",
     text: "64 bytes from faheem: time=instant, status=available",
     accent: true,
   },
-  { prefix: "$", text: "open mailto:faheempp@kimp.com", accent: false },
+  { prefix: "$", text: "open mailto:dev@faheem.site", accent: false },
 ];
 
 export default function ContactTerminal() {
