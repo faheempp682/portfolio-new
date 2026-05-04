@@ -12,7 +12,6 @@ export default function HeroSplit() {
   const stage = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    // faheem
     if (!root.current || !stage.current) return;
 
     const ctx = gsap.context(() => {
